@@ -1,0 +1,28 @@
+Assignment Tasks
+List Case Study
+
+Implement a simple list ADT that supports:
+
+insert(position, value)
+
+remove(position)
+
+get(position)
+
+State whether you chose array-based or linked-list–based implementation, and justify briefly in comments.
+
+Stack Implementation
+
+Implement a stack with push, pop, and peek/top.
+
+Write a program that uses your stack to check if parentheses in a string are balanced.
+
+Provide a screenshot showing different test strings and their results.
+
+Queue Implementation
+
+Implement a queue with enqueue, dequeue, and front/peek.
+
+Write a program that simulates a waiting line (e.g., customers arriving and being served in order).
+
+Provide a screenshot showing customers entering and leaving the line in correct order.
